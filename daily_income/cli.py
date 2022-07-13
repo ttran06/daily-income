@@ -1,5 +1,5 @@
 """
-Create daily income spreadsheet for Mom
+Create daily income spreadsheet
 """
 
 from datetime import datetime

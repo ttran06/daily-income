@@ -1,6 +1,8 @@
 ## Usage
 
-`python -m daily_income [month] [year]`
+```
+python -m daily_income [month] [year]
+```
 
 or
 
